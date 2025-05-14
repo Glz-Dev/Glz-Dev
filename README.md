@@ -1,7 +1,7 @@
-# Olá, me chamo [Seu Nome] 👋
+# Olá, me chamo Geraldo Luiz 👋
 
 Seja bem-vindo(a) ao meu perfil!  
-Sou estudante de Matemática Computacional na **UFCA**, apaixonado por computação e matemática. Atualmente, sou membro da empresa de tecnologia **Calango.io** 🦎, onde aplico meus conhecimentos em projetos desafiadores.
+Sou estudante de Matemática Computacional na **UFCA** - Univercidade Faderal do Cariri, apaixonado por computação e matemática e computação. Atualmente, sou membro da empresa de tecnologia **Calango.io** 🦎, onde aplico meus conhecimentos em projetos desafiadores.
 
 **Habilidades:**  
 `C` `Java` `Git` `GitHub` `Matemática Computacional`
@@ -17,8 +17,8 @@ Sou estudante de Matemática Computacional na **UFCA**, apaixonado por computaç
 
 ## 🌍 Conecte-se comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuuser)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/seuuser)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Glz-Dev/Glz-Dev/edit/main/README.md)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](geraldo:geraldolz9987@gmail.com)  
 
 ---
 
