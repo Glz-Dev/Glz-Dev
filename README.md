@@ -1,10 +1,10 @@
 # Olá, me chamo Geraldo Luiz 👋
 
 Seja bem-vindo(a) ao meu perfil!  
-Sou estudante de Matemática Computacional na **UFCA** - Univercidade Faderal do Cariri, apaixonado por computação e matemática e computação. Atualmente, sou membro da empresa de tecnologia **Calango.io** 🦎, onde aplico meus conhecimentos em projetos desafiadores.
+Sou estudante de Matemática Computacional na **UFCA** - Univercidade Faderal do Cariri, apaixonado por computação e matemática. Atualmente, sou membro da empresa de tecnologia **Calango.io** 🦎, onde aplico e aprimoro o meu conhecimentos.
 
 **Habilidades:**  
-`C` `Java` `Git` `GitHub` 
+`C` `Java``Git` `GitHub` 
 
 ---
 
