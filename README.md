@@ -10,7 +10,6 @@ Sou estudante de Matemática Computacional na **UFCA** - Univercidade Faderal do
 
 ## 🚀 Estou aprendendo  
 - Desenvolvimento Back-End  
-- Algoritmos Avançados  
 - Matemática Aplicada à Computação  
 
 ---
