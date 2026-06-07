@@ -88,10 +88,10 @@ skills = {
 ## Contato
 
 ```txt
-📧 Email     : seuemail@exemplo.com
-💼 LinkedIn  : linkedin.com/in/seu-perfil
-📷 Instagram : instagram.com/seu_usuario
-```
+📧 Email     : 
+💼 LinkedIn  : 
+📷 Instagram : 
+``
 
 ---
 
