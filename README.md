@@ -31,7 +31,7 @@ print(me.introduce())
 
 ---
 
-## 🚀 Sobre Mim
+##  Sobre Mim
 
 ```yaml
 nome: Geraldo Luiz
