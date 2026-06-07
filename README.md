@@ -53,7 +53,7 @@ objetivo:
 
 ---
 
-## 🧠 Tecnologias
+## Tecnologias
 
 ```python
 skills = {
@@ -71,7 +71,7 @@ skills = {
 
 ---
 
-## 📊 Atualmente
+## Atualmente
 
 ```bash
 > Estudando Matemática Computacional na UFCA
@@ -85,7 +85,7 @@ skills = {
 
 ---
 
-## 📫 Contato
+## Contato
 
 ```txt
 📧 Email     : seuemail@exemplo.com
@@ -95,15 +95,3 @@ skills = {
 
 ---
 
-<div align="center">
-
-```python
-while True:
-    aprender()
-    praticar()
-    evoluir()
-```
-
-### 🚀 Transformando dados em conhecimento.
-
-</div>
