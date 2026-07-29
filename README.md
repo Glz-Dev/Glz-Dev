@@ -13,10 +13,31 @@
 ---
 ## 🛠️ Stack Tecnológico
 
+
+---
+
 ### 💻 Linguagens
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-pitao-logo-icon-svg-download-png-2945099.png?f=webp&w=256"  width="40px" /><img src= "https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-svg-download-png-2945017.png?f=webp&w=256" width="50px" /><img src= "https://cdn.iconscout.com/icon/free/png-512/free-c-icon-svg-download-png-1175191.png?f=webp&w=256" width="50px" />
+
+### 🔬 Ciência de Dados e IA
+<img src=""  width="40px" />
+https://cdn.iconscout.com/icon/free/png-512/free-pandas-icon-svg-download-png-14548752.png?f=webp&w=256
+
+### 🖌️ UI/UX e Design
+
+
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-figma-logo-icon-svg-download-png-8630394.png?f=webp&w=256" width="50px"/>
+
+
+## 🧠 Habilidades
+
+---
+
+ <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-svg-download-png-8630395.png?f=webp&w=256" width="50px" />
 
 
 
+  
 ## 📚 Cursos Realizados
 
 | Curso | Plataforma | Link do Repositório |
