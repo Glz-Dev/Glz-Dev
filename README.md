@@ -8,6 +8,7 @@
 ---
 ## 📊 Sobre mim
 🔹 Estudante de Matemática Computacional UFCA
+
 🔹 Interessado em Ciência de Dados e Estatística  
 
 ---
