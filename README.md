@@ -14,11 +14,13 @@
 ---
 ## 🛠️ Stack Tecnológico
 
+<img src="" width="90px" />
 
 ---
 
 ### 💻 Linguagens
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-pitao-logo-icon-svg-download-png-2945099.png?f=webp&w=256"  width="40px" /><img src= "https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-svg-download-png-2945017.png?f=webp&w=256" width="50px" /><img src= "https://cdn.iconscout.com/icon/free/png-512/free-c-icon-svg-download-png-1175191.png?f=webp&w=256" width="50px" />
+<img src="https://camo.githubusercontent.com/324b4cfa68deb1b9c0008c02e910370ae1e1b7141ce0fe77972b6ea034e7abb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" width="90px" /><img src="https://camo.githubusercontent.com/a8a68c28284473f0def108389f0b491a4280d619a5fc8eb06f80f981a9e98ddf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" width="55px" /><img src="https://camo.githubusercontent.com/9e628e871e4286b76a446a7c4e8bde029f1558f318ef56e073df615b67463f97/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" width="65px" />
+
 
 ### 🔬 Ciência de Dados e IA
 
