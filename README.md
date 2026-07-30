@@ -21,8 +21,12 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-pitao-logo-icon-svg-download-png-2945099.png?f=webp&w=256"  width="40px" /><img src= "https://cdn.iconscout.com/icon/free/png-512/free-java-logo-icon-svg-download-png-2945017.png?f=webp&w=256" width="50px" /><img src= "https://cdn.iconscout.com/icon/free/png-512/free-c-icon-svg-download-png-1175191.png?f=webp&w=256" width="50px" />
 
 ### 🔬 Ciência de Dados e IA
-<img src=""  width="40px" />
-https://cdn.iconscout.com/icon/free/png-512/free-pandas-icon-svg-download-png-14548752.png?f=webp&w=256
+
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-pandas-icon-svg-download-png-14548752.png?f=webp&w=256"  
+ width="40px" /> <img src="https://cdn.iconscout.com/icon/free/png-512/free-entorpecido-icon-svg-download-png-14549042.png?f=webp&w=256"  
+ width="40px" /> <img src="https://camo.githubusercontent.com/abd972c7c1a828a2805dd9fb533ef902f1c591deaaab953f82189edb6dd4bfea/68747470733a2f2f66696c652e6c616265782e696f2f706174682f3650445130473430436443582e706e67"  
+ width="40px" /><img src="https://cdn.iconscout.com/icon/free/png-512/free-opencv-icon-svg-download-png-14549109.png?f=webp&w=256"  
+ width="40px" />
 
 ### 🖌️ UI/UX e Design
 
