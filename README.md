@@ -3,20 +3,20 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamx4bXFvZzUxcmloaGs2eDlyOXJla3IybGlteGppM3h5aDRmOW41MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/woMXUUtj8dCezcZERT/giphy.gif" alt="Gif perfil" width="500">
 </p>
-
 🎓 Matemática Computacional · Análise de Dados · Estatística Computacional
-
 ---
 
 ## 📊 Sobre mim
 
-🔹 Estudante de Matemática Computacional - UFCA
+Estudante de Matemática Computacional na UFCA, com interesse em Ciência de Dados, Análise de Dados, Estatística Computacional e Desenvolvimento de Software. Estou sempre aprendendo novas tecnologias e desenvolvendo projetos para aprimorar minhas habilidades em programação e análise de dados.
+### 📖Atualmente aprendendo
 
-🔹 Interessado em Ciência de Dados e Estatística
+Estruturas de Dados, Python, Java, C++, Estatística Computacional, Análise de Dados, NumPy, Pandas, Matplotlib e OpenCV.
+### 🎯Próximos objetivos
+Aprimorar minhas habilidades em Ciência de Dados, Machine Learning, Inteligência Artificial, Visão Computacional e Desenvolvimento Full Stack por meio de projetos práticos e estudos contínuos.
 
----
 
-# 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
 ### 💻 Linguagens
 
@@ -32,7 +32,7 @@
 
 ---
 
-# 🧠 Habilidades
+## 🧠 Habilidades
 
 <p align="center">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-svg-download-png-8630395.png?f=webp&w=256" height="50"/>
